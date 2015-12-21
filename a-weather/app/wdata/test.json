@@ -1,0 +1,260 @@
+{
+    "hourly": [
+        {
+            "condition": "Partly Cloudy",
+            "temp": "-1",
+            "min": "00",
+            "hour": "17"
+        },
+        {
+            "condition": "Partly Cloudy",
+            "temp": "-1",
+            "min": "00",
+            "hour": "18"
+        },
+        {
+            "condition": "Partly Cloudy",
+            "temp": "2",
+            "min": "00",
+            "hour": "19"
+        },
+        {
+            "condition": "Clear",
+            "temp": "1",
+            "min": "00",
+            "hour": "20"
+        },
+        {
+            "condition": "Clear",
+            "temp": "1",
+            "min": "00",
+            "hour": "21"
+        },
+        {
+            "condition": "Clear",
+            "temp": "1",
+            "min": "00",
+            "hour": "22"
+        },
+        {
+            "condition": "Clear",
+            "temp": "0",
+            "min": "00",
+            "hour": "23"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "0"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "1"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "2"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "3"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "4"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "5"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "6"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-3",
+            "min": "00",
+            "hour": "7"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-3",
+            "min": "00",
+            "hour": "8"
+        },
+        {
+            "condition": "Partly Cloudy",
+            "temp": "-1",
+            "min": "00",
+            "hour": "9"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "10"
+        },
+        {
+            "condition": "Clear",
+            "temp": "2",
+            "min": "00",
+            "hour": "11"
+        },
+        {
+            "condition": "Clear",
+            "temp": "4",
+            "min": "00",
+            "hour": "12"
+        },
+        {
+            "condition": "Clear",
+            "temp": "4",
+            "min": "00",
+            "hour": "13"
+        },
+        {
+            "condition": "Clear",
+            "temp": "5",
+            "min": "00",
+            "hour": "14"
+        },
+        {
+            "condition": "Clear",
+            "temp": "6",
+            "min": "00",
+            "hour": "15"
+        },
+        {
+            "condition": "Clear",
+            "temp": "5",
+            "min": "00",
+            "hour": "16"
+        },
+        {
+            "condition": "Clear",
+            "temp": "3",
+            "min": "00",
+            "hour": "17"
+        },
+        {
+            "condition": "Clear",
+            "temp": "2",
+            "min": "00",
+            "hour": "18"
+        },
+        {
+            "condition": "Clear",
+            "temp": "2",
+            "min": "00",
+            "hour": "19"
+        },
+        {
+            "condition": "Clear",
+            "temp": "1",
+            "min": "00",
+            "hour": "20"
+        },
+        {
+            "condition": "Clear",
+            "temp": "1",
+            "min": "00",
+            "hour": "21"
+        },
+        {
+            "condition": "Clear",
+            "temp": "0",
+            "min": "00",
+            "hour": "22"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "23"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "0"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "1"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "2"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-2",
+            "min": "00",
+            "hour": "3"
+        },
+        {
+            "condition": "Clear",
+            "temp": "-1",
+            "min": "00",
+            "hour": "4"
+        }
+    ],
+    "forecast": [
+        {
+            "year": 2015,
+            "high": "0",
+            "month": 12,
+            "weekday": "Friday",
+            "conditions": "Chance of Snow",
+            "low": "-3",
+            "day": 18
+        },
+        {
+            "year": 2015,
+            "high": "7",
+            "month": 12,
+            "weekday": "Saturday",
+            "conditions": "Clear",
+            "low": "-3",
+            "day": 19
+        },
+        {
+            "year": 2015,
+            "high": "7",
+            "month": 12,
+            "weekday": "Sunday",
+            "conditions": "Mostly Cloudy",
+            "low": "-1",
+            "day": 20
+        },
+        {
+            "year": 2015,
+            "high": "8",
+            "month": 12,
+            "weekday": "Monday",
+            "conditions": "Ice Pellets",
+            "low": "-1",
+            "day": 21
+        }
+    ],
+    "nHourly": 36,
+    "nForecast": 4
+}
